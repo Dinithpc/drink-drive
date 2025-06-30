@@ -21,7 +21,7 @@ export default function Navbar() {
           />
           <h1 className="text-2xl md:text-2xl font-bold tracking-tight font-inter">
             <span className="text-neutral-900 group-hover:text-black transition duration-200">Drink</span>{' '}
-            <span className="text-white group-hover:text-white transition duration-200">&</span>{' '}
+            <span className="text-white group-hover:text-white transition duration-200">and</span>{' '}
             <span className="text-black group-hover:text-black transition duration-200">Drive</span>
           </h1>
         </Link>
